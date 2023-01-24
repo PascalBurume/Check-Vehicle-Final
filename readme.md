@@ -31,8 +31,9 @@ Go to the SharePoint website where the list is located.
 
   - In the "New Document" menu, select "Excel" to create a new Excel file in the list `(The file demos it is on the folder Prototype )`for example.
   
-
+  
   - If you want to upload an existing Excel file, click on the "Upload Document" button, then select the file from your computer by clicking on the "Browse" button.`(The file demos it is on the folder Prototype )`
+  ![My Image](./P6.jpg)
 
    - Once you have selected the Excel file, click on the "OK" button to begin the upload process.
 
@@ -41,3 +42,6 @@ Go to the SharePoint website where the list is located.
   - You can open the file by clicking on its name, and you will be able to view, edit and share the document with others.
 
 Note: Make sure that you have the necessary permissions to upload files to the SharePoint list. Also, if the option to upload files is not available in the list, you may need to contact your SharePoint administrator to have the necessary permissions enabled.
+## Connect to the Prototype?
+once you've done all the process you can now connect your list with `Gallery` in the Screen `Checking Vehicle Process` and the copy and past the link of your SharePoint url.
+
