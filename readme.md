@@ -21,4 +21,4 @@ To import an app in Power Apps, you can follow these steps:
 
  - To open the app, click on the app name in the list of apps, this will take you to the app's home screen.
 
-## Sections
+## How to have the same database?
