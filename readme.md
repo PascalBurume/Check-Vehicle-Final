@@ -44,4 +44,4 @@ Go to the SharePoint website where the list is located.
 Note: Make sure that you have the necessary permissions to upload files to the SharePoint list. Also, if the option to upload files is not available in the list, you may need to contact your SharePoint administrator to have the necessary permissions enabled.
 ## Connect to the Prototype?
 once you've done all the process you can now connect your list with `Gallery` in the Screen `Checking Vehicle Process` and the copy and past the link of your SharePoint url.
-
+ ![My Image](./P7.jpg)
