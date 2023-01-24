@@ -15,8 +15,8 @@ To import an app in Power Apps, you can follow these steps:
  - The import process will begin, and you will see a progress bar indicating the status of the import. This process might take a few minutes, depending on the size of the app and the number of files it contains.
   ![My Image](./P3.jpg)
  
- - You'll need to click on update, once done you will create a new environment because that database it comes from externetal environment
- 
+ - You'll need to click on update, once done you will create a new environment because that database it comes from externetal environment or you don't have access
+  ![My Image](./P5.jpg)
  - Once the import process is complete, the app will be added to your list of apps, and you will be able to open it and start using it.
 
  - To open the app, click on the app name in the list of apps, this will take you to the app's home screen.
