@@ -45,4 +45,4 @@ Note: Make sure that you have the necessary permissions to upload files to the S
 ## Connect to the Prototype?
 once you've done all the process you can now connect your list with `Gallery` in the Screen `Checking Vehicle Process` and the copy and past the link of your SharePoint url.
  ![My Image](./P7.jpg)
- After All process, you can now test the in following the document word for using the prototype `Checking Vehicle`
+ After All process, you can now test the prototype by following the document word for using the prototype `Checking Vehicle`
